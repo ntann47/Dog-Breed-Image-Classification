@@ -1,0 +1,33 @@
+html{
+  margin: 0;
+  padding: 0;
+}
+h1{
+text-align: center; 
+color: deepskyblue;
+}
+h2{
+text-align: center;
+color: lightgray;
+}
+.name{
+margin-bottom: 20px!important;
+}
+.btn{
+margin-top: 30px !important;
+margin-bottom: 30px !important;
+}
+.app{
+  width: 700px;
+  height: 700px;
+  margin:auto;
+  background-image: url(../images/R.jpg);
+  background-position: center;
+  background-size:  cover;
+}
+.img{
+width: 300px;
+display: block;
+margin: 10px auto;
+}
+
